@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Cedula_de_Identidad\Cedula de Identidad\bin\Debug\Cedula de Identidad.exe.config
+C:\Users\Dell\source\repos\Cedula_de_Identidad\Cedula de Identidad\bin\Debug\Cedula de Identidad.exe
+C:\Users\Dell\source\repos\Cedula_de_Identidad\Cedula de Identidad\bin\Debug\Cedula de Identidad.pdb
+C:\Users\Dell\source\repos\Cedula_de_Identidad\Cedula de Identidad\obj\Debug\Cedula de Identidad.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Cedula_de_Identidad\Cedula de Identidad\obj\Debug\Cedula de Identidad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Cedula_de_Identidad\Cedula de Identidad\obj\Debug\Cedula_de_Identidad.Form1.resources
+C:\Users\Dell\source\repos\Cedula_de_Identidad\Cedula de Identidad\obj\Debug\Cedula_de_Identidad.Properties.Resources.resources
+C:\Users\Dell\source\repos\Cedula_de_Identidad\Cedula de Identidad\obj\Debug\Cedula de Identidad.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Cedula_de_Identidad\Cedula de Identidad\obj\Debug\Cedula de Identidad.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Cedula_de_Identidad\Cedula de Identidad\obj\Debug\Cedula de Identidad.exe
+C:\Users\Dell\source\repos\Cedula_de_Identidad\Cedula de Identidad\obj\Debug\Cedula de Identidad.pdb
